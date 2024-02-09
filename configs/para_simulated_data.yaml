@@ -1,0 +1,16 @@
+dataset_path: "data/toy_data/GM_Sud.pkl"
+alpha: 0.1
+sub_window_num: 10
+k: 10
+m: 30
+eps_small: 1
+eps_big: 10
+win_size: 3000
+hidden_size: 100
+output_size: 100
+learning_rate: 0.005
+epochs: 1
+temperature: 0.1
+percentile: 0.95
+lamb: 1
+n_experiments: 20

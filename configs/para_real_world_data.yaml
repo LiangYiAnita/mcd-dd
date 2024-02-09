@@ -1,0 +1,16 @@
+dataset_path: "data/real_world_data/INSECTS_Sud.pkl"
+alpha: 0.1
+sub_window_num: 10
+k: 10
+m: 100
+eps_small: 1
+eps_big: 10
+win_size: 5000  # 2000 for INSECTS_Grad, 5000 for INSECTS_Sud and INSECTS_IncreRec, 1000 for EEG
+hidden_size: 200
+output_size: 150
+learning_rate: 0.005
+epochs: 1
+temperature: 0.1
+percentile: 0.95
+lamb: 1
+n_experiments: 20
