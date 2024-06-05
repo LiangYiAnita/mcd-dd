@@ -1,5 +1,5 @@
 # MCD-DD
-Primary code and datasets for the paper: Online Drift Detection with Maximum Concept Discrepancy
+Primary code and datasets for the paper: _Online Drift Detection with Maximum Concept Discrepancy_
 
 ## Data sets
 All datasets are located in the `data` folder, with synthetic simulated data in `data/toy_data`, including 7 datasets such as GM_Sud, GM_Rec, etc. Descriptions of the synthetic datasets can be found in the paper's appendix. <br>
